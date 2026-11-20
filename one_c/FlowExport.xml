@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" version="2.20">
+<ExternalDataProcessor uuid="05f29431-4d10-4c22-a4f3-0bcd68afc5a2"><InternalInfo><xr:GeneratedType name="ExternalDataProcessorObject.FlowExport" category="Object"><xr:TypeId>9edab629-d71a-48de-aeb2-8c5308a092d8</xr:TypeId><xr:ValueId>270e4af6-2a3e-4c87-8f07-dd11247374f0</xr:ValueId></xr:GeneratedType></InternalInfo><Properties><Name>FlowExport</Name><Synonym/><Comment>Двусторонний обмен картой DD FLOW</Comment><DefaultForm>ExternalDataProcessor.FlowExport.Form.Форма</DefaultForm><AuxiliaryForm/></Properties><ChildObjects><Form>Форма</Form></ChildObjects></ExternalDataProcessor></MetaDataObject>
